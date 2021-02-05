@@ -3,7 +3,8 @@
   ### String Algorithm
    * KMP Algorithm
    * BM Algorithm
-    #### Virus Checking Program
+     
+   #### [ Virus Checking Program ]
    : 프로그램 코드를 분석하여 프로그램 내 악성코드 패턴을 탐지하는 프로그램. 
     
    프로그램은 텍스트 파일로 15개 이상의 프로그램 코드를 전달받으며, <br/>
@@ -20,7 +21,8 @@
   ### Sorting Algorithm
   * Insertion Sorting Algorithm
   * Merge Sorting Algorithm
-    #### Student Register Program
+  
+   #### [ Student Register Program ]
    : 출석부를 수정, 추가할 수 있으며 학생들을 학번 순으로 정렬하는 프로그램
     
    학생들의 출석부 명단은 텍스트 파일로 전달받는다.
