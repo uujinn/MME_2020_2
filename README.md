@@ -25,6 +25,7 @@
     
     학생들의 출석부 명단은 텍스트 파일로 전달받는다.
     
+    ![StudentProgram](https://user-images.githubusercontent.com/70887135/106994254-c404de80-67bf-11eb-9076-bf156bae8ee1.png)
     
 ## OOP
 
