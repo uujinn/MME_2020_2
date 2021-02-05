@@ -16,5 +16,16 @@
       * 바이러스 패턴을 가진 프로그램의 이름 및 개수
       * 바이러스 패턴을 가지지 않은 프로그램 이름 및 개수
 
+
+  * Sorting Algorithm
+    * Insertion Sorting Algorithm
+    * Merge Sorting Algorithm
+    ### Student Register Program
+    : 출석부를 수정, 추가할 수 있으며 학생들을 학번 순으로 정렬하는 프로그램
+    
+    학생들의 출석부 명단은 텍스트 파일로 전달받는다.
+    
+    
 ## OOP
+
 ## Computer Graphics
