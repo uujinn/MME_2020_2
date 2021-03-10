@@ -31,5 +31,13 @@
    ![StudentProgram](https://user-images.githubusercontent.com/70887135/106994254-c404de80-67bf-11eb-9076-bf156bae8ee1.png)
     
 ## OOP
+  ### JAVA GUI
+  #### [공학용 계산기 Project]
+   * 사칙연산
+   * Function(적분/미분, 삼각함수계산)
+   * Notation(진수변환)
+   * Matrix(행렬) 
 
+
+  
 ## Computer Graphics
