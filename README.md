@@ -37,6 +37,7 @@
    * Function(적분/미분, 삼각함수계산)
    * Notation(진수변환)
    * Matrix(행렬) 
+   * etc 예외처리
 
 
   
