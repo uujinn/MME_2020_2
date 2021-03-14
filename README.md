@@ -39,6 +39,7 @@
    * Matrix(행렬) 
    * etc 예외처리
 
+
  [예시]
 
  ![그림1](https://user-images.githubusercontent.com/70887135/110655494-733f3600-8202-11eb-9750-9f17f6d1abf6.png)
@@ -48,3 +49,15 @@
 
   
 ## Computer Graphics
+
+### OpenGL
+#### [OpenGL 도형 구현]
+![assignment1_2019112541양유진](https://user-images.githubusercontent.com/70887135/111074584-f1634b80-8526-11eb-851b-a252250cc8b6.jpg)
+
+#### [OpenGL 그림판 구현]
+![캡처_2021_03_15_00_48_47_782](https://user-images.githubusercontent.com/70887135/111074828-4f446300-8528-11eb-9446-0162f7bfb69b.png)
+![캡처_2021_03_15_00_49_15_915](https://user-images.githubusercontent.com/70887135/111074834-523f5380-8528-11eb-9df3-37813ddadbd9.png)
+
+
+#### [3D Viewer]
+![캡처_2021_03_15_00_52_09_195](https://user-images.githubusercontent.com/70887135/111074911-b19d6380-8528-11eb-8b0a-6de6cf70aac6.png)
